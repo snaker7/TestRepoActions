@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D2205089-4192-C8AB-2F16-57BD9FDA546B}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "AirSim",
+			"Enabled": false
+		},
+		{
+			"Name": "DrivingVisualizer",
+			"Enabled": false
+		},
+		{
+			"Name": "UnrealSceneCreator",
+			"Enabled": false
+		}
+	]
+}
